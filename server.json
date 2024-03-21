@@ -10,10 +10,10 @@
     },
     {
       "id": 2,
-      "description": "Hambúrguer",
+      "description": "Feira do mês",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 50,
+      "price": 505,
       "createdAt": "2024-03-21T00:23:04.011Z"
     }
   ]
