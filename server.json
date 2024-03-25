@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 505,
       "createdAt": "2024-03-21T00:23:04.011Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 12,
+      "category": "Lanche",
+      "type": "outcome",
+      "createdAt": "2024-03-25T14:08:17.856Z",
+      "id": 3
     }
   ]
 }
